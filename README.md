@@ -1,8 +1,8 @@
 # Python - An advanced, modular AI ecosystem built in Python - Business Use Cases
 
 ## Description of the project
-### Author: ${var_authour}
-### Email: ${var_email}
+### Author: Sascha H. Beck
+### Email: info@saschahbeck.de
 ### Date: 2026-10-01
 
 ## Requirements
